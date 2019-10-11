@@ -1,2 +1,2 @@
 #case 1
-print("hello")
+print("hello_world")
