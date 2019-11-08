@@ -1,1 +1,1 @@
-# project of Onenko, Golitsyn and Kumarov.
+# project of Onenko, Golitsyn and Tumanov
